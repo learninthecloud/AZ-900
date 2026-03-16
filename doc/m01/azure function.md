@@ -13,7 +13,7 @@ module.exports = async (context, req) => {
 ## Test
 
 ```
-https://az900func4-fcfwgqgegcf3fxhp.southeastasia-01.azurewebsites.net/api/HttpTrigger1?code=T3KcQGcSoqozSK8z7QLWMuYqraY7AD0X0MgIflbga3UpAzFujOoGdA==&a=10&b=5&op=+
+https://az900func4-fcfwgqgegcf3fxhp.southeastasia-01.azurewebsites.net/api/HttpTrigger1?code=T3KcQGcSoqozSK8z7QLWMuYqraY7AD0X0MgIflbga3UpAzFujOoGdA==&a=10&b=5&op=%2B
 
 https://az900func4-fcfwgqgegcf3fxhp.southeastasia-01.azurewebsites.net/api/HttpTrigger1?code=T3KcQGcSoqozSK8z7QLWMuYqraY7AD0X0MgIflbga3UpAzFujOoGdA==&a=10&b=5&op=-
 
